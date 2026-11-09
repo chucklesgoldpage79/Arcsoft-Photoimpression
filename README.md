@@ -222,4 +222,4 @@ Arcsoft PhotoImpression is provided as a **full free version**, giving you acces
 Ready to take control of your photo management? **Download Arcsoft PhotoImpression now and experience the difference!**
 
 ---
-**Last updated:** 2026-11-08 21:42:09 UTC
+**Last updated:** 2026-11-09 01:26:16 UTC
